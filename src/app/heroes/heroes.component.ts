@@ -9,7 +9,7 @@ import { Hero } from '../hero';
 export class HeroesComponent implements OnInit {
   myhero: Hero = {
     id: 1,
-    name: 'Loki'
+    name: 'Reverse Flash'
     gender: 'Male'
   };
 
